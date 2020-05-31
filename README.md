@@ -12,29 +12,28 @@
 
 #### Treatment planning system
 
-#### Safety control structure
+#### Recorded safety measures prior to the accident
 
 ---
 
-### Accident
-
-#### Chain of events
-
-#### Error discovery
-
-#### Response
+### The radiation overexposure accident
 
 ---
 
-### Test and validation of the software
+### Analysis
+
+#### Hazard analysis and safety constraints
+
+#### The safety control structure
+
+#### System-Theoretic Process Analysis
 
 ---
 
-### Conclusion
+### Conclusions
 
 ---
 
 ### References
 
-https://www-pub.iaea.org/MTCD/publications/PDF/Pub1114_scr.pdf
-http://edcan.org.au/edcan-learning-resources/supporting-resources/radiotherapy/glossary
+See document
